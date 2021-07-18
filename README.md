@@ -39,6 +39,8 @@ npm install discord.js
 - [utf-8-validate](https://www.npmjs.com/package/utf-8-validate) in combination with `bufferutil` for much faster WebSocket processing (`npm install utf-8-validate`)
 - [@discordjs/voice](https://github.com/discordjs/voice) for interacting with the Discord Voice API
 
+## Changes to improve video performance
+
 ## Example usage
 
 ```js
